@@ -18,5 +18,7 @@ libraryDependencies += "javax" % "javaee-api" % "7.0"
 
 libraryDependencies += "org.clapper" % "grizzled-slf4j_2.10" % "1.0.1"
 
+libraryDependencies += "com.typesafe.slick" %% "slick" % "2.0.0"
+
 libraryDependencies += "org.specs2" % "specs2_2.10" % "2.3.7" % "test"
 
